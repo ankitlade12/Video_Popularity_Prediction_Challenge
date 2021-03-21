@@ -5,5 +5,6 @@
 **Models**
 
 * RandomForest Regressor
+* XGBoost Regressor
 
 
